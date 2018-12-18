@@ -283,6 +283,8 @@ app_options:
     ascii_mode: true
   com.runningwithcrayons.Alfred-2:
     ascii_mode: true
+  com.runningwithcrayons.Alfred-3:
+    ascii_mode: true
   com.blacktree.Quicksilver:
     ascii_mode: true
   com.apple.Terminal:
